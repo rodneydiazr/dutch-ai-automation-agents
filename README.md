@@ -3,7 +3,9 @@
 ## Multi-Agent AI System for Automation Opportunity Discovery
 
 A five-agent AI automation consulting pipeline designed to discover, research, validate, design, and rank potential AI automation opportunities across Dutch construction-related companies.
+## System Architecture
 
+![Dutch AI Automation Agents Architecture](architecture.png)
 The system combines web research, LLM-based analysis, structured data, and PostgreSQL to turn a broad business research problem into a prioritized list of actionable automation opportunities.
 
 ---
