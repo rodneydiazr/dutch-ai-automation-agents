@@ -6,6 +6,30 @@ A five-agent AI automation consulting pipeline designed to discover, research, v
 ## System Architecture
 
 ![Dutch AI Automation Agents Architecture](architecture.png)
+## 📊 Verified Pipeline Results
+
+The system was executed against a dataset of Dutch construction-related companies and successfully progressed companies through the multi-agent pipeline.
+
+| Pipeline Stage | Result |
+|---|---:|
+| Companies discovered | **83** |
+| Companies researched | **50** |
+| Companies validated | **50** |
+| Solutions generated | **45** |
+| Final opportunities ranked | **45** |
+
+### Pipeline Completion
+
+```text
+83 Companies Discovered
+          ↓
+50 Companies Researched
+          ↓
+50 Companies Validated
+          ↓
+45 Solutions Generated
+          ↓
+45 Final Opportunities Ranked
 The system combines web research, LLM-based analysis, structured data, and PostgreSQL to turn a broad business research problem into a prioritized list of actionable automation opportunities.
 
 ---
