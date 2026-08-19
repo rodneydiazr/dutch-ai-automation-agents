@@ -254,3 +254,42 @@ The resulting dataset can be used by an AI consultant to:
 - Prioritize potential client engagements
 - Investigate specific business processes
 - Develop AI automation proposals
+---
+
+## 🛠️ Technology Stack
+
+### AI & LLM
+- Anthropic Claude API
+- LLM-based multi-agent architecture
+- Prompt-driven structured analysis
+
+### Programming
+- Python
+- JSON
+- REST APIs
+
+### Data & Database
+- PostgreSQL
+- Neon
+- Structured relational data
+
+### Web Research
+- Tavily API
+- Public web research
+- Source-based company analysis
+
+### Development
+- Visual Studio Code
+- Git
+- GitHub
+- Python virtual environment
+- Environment variables for API credentials
+
+---
+
+## 🚀 How the System Works
+
+The pipeline is executed through:
+
+```bash
+python run_pipeline.py
