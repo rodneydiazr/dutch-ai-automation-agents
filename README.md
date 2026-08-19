@@ -183,3 +183,74 @@ Prioritizes the strongest opportunities.
                          ▼
                   Validation stops
                   the opportunity
+                  ---
+
+## 🔎 Example Results
+
+The pipeline generated and ranked **45 AI automation opportunities** across Dutch construction-related companies.
+
+The final ranking stage prioritizes opportunities based on business value and implementation difficulty.
+
+### Top Opportunities Identified
+
+| Company | AI Automation Opportunity | Business Value | Difficulty |
+|---|---|---:|---|
+| Van Wijnen | Intelligent Prefab Compatibility Validator | 74 | High |
+| Dura Vermeer | Cross-Entity Project Budgeting & Cost Intelligence Assistant | 68 | Medium |
+| TBI | Automated Scope 3 CSRD Data Collection & Reporting Hub | 68 | Medium |
+| TBI Holdings | TBI Sustainability & Waste Data Automation Hub | 66 | Medium |
+| Strukton | Intelligent Invoice & Procurement Automation Hub | 62 | Medium |
+| Aalberts integrated piping systems | Manufacturing Knowledge Assistant & Cross-Site Documentation Hub | 62 | Medium |
+| Heerema Fabrication Group | AI-Assisted Welding Quality Documentation & Procurement Intelligence Assistant | 62 | Medium |
+| BESIX | QHSE Intelligence Copilot for OASIS | 62 | Medium |
+| Koninklijke BAM Groep | Unified Project Data & Risk Intelligence Hub | 62 | High |
+| Wavin | Export & Trade Documentation AI Copilot | 62 | High |
+
+### Example: Van Wijnen
+
+**Opportunity:** Intelligent Prefab Compatibility Validator
+
+The system identified an opportunity to use AI-assisted rule validation to accelerate compatibility checking of prefabricated housing elements.
+
+The proposed solution would analyze proposed configurations against relevant engineering and production rules and flag potential conflicts before they reach the factory floor.
+
+**Business Value:** 74  
+**Implementation Difficulty:** High
+
+### Example: Dura Vermeer
+
+**Opportunity:** Cross-Entity Project Budgeting & Cost Intelligence Assistant
+
+The system identified an opportunity to standardize project budgeting and cost intelligence across multiple entities.
+
+The proposed solution would use AI to ingest cost and pricing information, identify budget deviations, and provide project managers with natural-language explanations and recommendations.
+
+**Business Value:** 68  
+**Implementation Difficulty:** Medium
+
+### Example: Wavin
+
+**Opportunity:** Export & Trade Documentation AI Copilot
+
+The system identified an opportunity to automate repetitive export and shipping documentation.
+
+The proposed solution would retrieve order information from existing systems, generate and validate export documents, apply country-specific compliance rules through a RAG knowledge base, and flag discrepancies before shipment.
+
+**Business Value:** 62  
+**Implementation Difficulty:** High
+
+> **Note:** These results are AI-generated opportunity hypotheses produced by the research, validation, solution, and ranking pipeline. They should be treated as consulting opportunities for further validation rather than claims that the companies have formally confirmed these exact problems or solutions.
+
+---
+
+## 📊 Output
+
+The pipeline produces structured opportunity data that can be exported for further analysis and prioritization.
+
+The resulting dataset can be used by an AI consultant to:
+
+- Identify high-value automation opportunities
+- Compare implementation difficulty
+- Prioritize potential client engagements
+- Investigate specific business processes
+- Develop AI automation proposals
